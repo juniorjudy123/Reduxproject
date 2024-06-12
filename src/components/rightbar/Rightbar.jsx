@@ -1,6 +1,5 @@
 import ArrowDropDownIcon from "@mui/icons-material/ArrowDropDown"
 import React from "react"
-
 import "./rightbar.css"
 
 export default function Rightbar() {
