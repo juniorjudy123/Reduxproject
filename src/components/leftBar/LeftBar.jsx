@@ -1,4 +1,3 @@
-import GroupsIcon from "@mui/icons-material/Groups"
 import ShoppingCartIcon from "@mui/icons-material/ShoppingCart"
 import ListIcon from "@mui/icons-material/List"
 import HomeIcon from "@mui/icons-material/Home"
@@ -15,7 +14,6 @@ export default function LeftBar() {
 				<MenuLink icon={<HomeIcon />} text="Homepage" />
 				<MenuLink icon={<ListIcon />} text="Lists" />
 				<MenuLink icon={<ShoppingCartIcon />} text="Products" />
-				<MenuLink icon={<GroupsIcon />} text="Groups" />
 				<MenuLink icon={<SettingsIcon />} text="Settings" />
 				<MenuLink icon={<LogoutIcon />} text="Logout" />
 			</div>
